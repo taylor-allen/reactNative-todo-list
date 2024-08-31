@@ -17,7 +17,7 @@ This project was created following a [YouTube tutorial by Net Ninja](https://www
 
 ## Features
 
-- This mobile app is a simple To-Do List application created to learn the basics of React Native development. It allows users to add and delete tasks. The app is designed as a learning project to explore React Native and mobile app development using Expo.
+- This mobile app is a simple To-Do List application created to learn the basics of React Native development. It allows users to add and delete tasks. It also includes minimal data validation when new items are added. The app is designed as a learning project to explore React Native and mobile app development using Expo.
 
 
 ## Technologies Used
